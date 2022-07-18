@@ -1,3 +1,9 @@
+div {
+	margin: 8px;
+	display: block;
+	background-color: coral;
+	font-size: large;
+}
 body {
 	width: 100%;
 	max-width: 1024px;
@@ -103,12 +109,7 @@ img {
 	color: white;
 	background-color: midnightblue;
 }
-div {
-	margin: 8px;
-	display: block;
-	background-color: coral;
-	font-size: large;
-}
+
 #mainHeading {
 	color: red;
 }
